@@ -51,7 +51,7 @@ The NodeMCU firmware manages:
 
 ### **Files:**
 
-- **`/src/main.ino`**: The main NodeMCU program that handles Wi-Fi connection and data transmission.
+- **`/src/nodemcu_main.ino`**: The main NodeMCU program that handles Wi-Fi connection and data transmission.
 
 ### **How to Use;**
 
@@ -76,7 +76,7 @@ For the external libraries used in the project, you can install them via the Ard
 2. Connect the Arduino to your PC using a USB cable.
 3. Open `/firmware/arduino/src/arduino_main.ino`.
 4. Select the correct Arduino board (e.g., **Arduino Uno**) from the Tools > Board menu.
-5. Click **Upload** to upload the firmware.
+5. Click **Upload** to upload the firmware to the Arduino.
 
 ### **For NodeMCU:**
 
