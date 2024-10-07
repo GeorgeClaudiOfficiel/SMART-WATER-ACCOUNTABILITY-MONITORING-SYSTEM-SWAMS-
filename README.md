@@ -17,7 +17,7 @@
 
 The **SWAMS** is designed to help users monitor and manage their water consumption in real-time. It uses a flow meter, OLED display, and NodeMCU ESP8266 microcontroller to measure water flow and total volume and sends this data wirelessly to a web/mobile interface for remote tracking and analysis.
 
-This system promotes water conservation by giving users insights into their daily and monthly consumption patterns, allowing for efficient water usage.
+This system promotes water conservation by giving users insights into their daily and monthly consumption patterns remotely, allowing for efficient water usage.
 
 ---
 
@@ -45,8 +45,6 @@ This system promotes water conservation by giving users insights into their dail
 - **Frontend**:
 - **Database**:
 - **Communication Protocol**: MQTT or HTTP for data transmission
-
----
 
 ---
 
