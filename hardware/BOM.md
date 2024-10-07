@@ -39,7 +39,7 @@ This document lists all the hardware components required to build the **Smart Wa
 
 ## Estimated Cost
 
-| Component            | Estimated Price (USD) | Quantity | Total Price (USD) |
+| Component            | Estimated Price (kshs)| Quantity | Total Price (kshs)|
 |----------------------|-----------------------|----------|-------------------|
 | Water Flow Sensor     | kshs 1000             | 1        | kshs 1000         |
 | Arduino Uno           | kshs 1700             | 1        | kshs 1700         |
