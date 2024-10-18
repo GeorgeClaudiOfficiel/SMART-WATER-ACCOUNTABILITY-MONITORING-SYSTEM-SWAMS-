@@ -59,8 +59,8 @@ This system promotes water conservation by giving users insights into their dail
 
 ### **3. Software Setup:**
 
--To get started simply follow the following [link](https://georgeclaudiofficiel.github.io/SMART-WATER-ACCOUNTABILITY-MONITORING-SYSTEM-SWAMS-/).
--To run the web app on your browser through localhost:5500, simply download the extensions 'Liveserver' and 'Prettier' then:
+- To get started simply follow the following [link](https://georgeclaudiofficiel.github.io/SMART-WATER-ACCOUNTABILITY-MONITORING-SYSTEM-SWAMS-/).
+- To run the web app on your browser through localhost:5500, simply download the extensions 'Liveserver' and 'Prettier' then:
 
 1. Clone this repository:
 
