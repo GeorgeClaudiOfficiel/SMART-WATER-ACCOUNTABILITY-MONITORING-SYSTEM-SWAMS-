@@ -1,5 +1,5 @@
-#define BLYNK_TEMPLATE_ID "TMPL2bGyXRTbG"
-#define BLYNK_TEMPLATE_NAME "SMART WATER MONITORING METER"
+#define BLYNK_TEMPLATE_ID "TMPL2qEJNg17Y"
+#define BLYNK_TEMPLATE_NAME "SWAMS"
 
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
@@ -8,7 +8,7 @@
 
 const char* ssid = "MACRAY";
 const char* password = "401477B7";
-char auth[] = "TdubHKS2WRA-X0Ezw11NmWxCW8s_olwV"; // Replace with your actual token
+char auth[] = "MUgGmRsgc-ZQggjcu83q8yjCRjnGV_Sx"; // Replace with your actual token
 
 const char* host = "script.google.com";
 const char* googleScriptID = "AKfycby_p5UTPdH2JHwHMKW9aEZdPP_zpmFCZ--RKAqE0kkx21VU5qDWWjTe3YEB5MOG6oQwMQ";  // Google Apps Script ID
